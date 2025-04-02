@@ -1,2 +1,2 @@
-# QYT-NetDevops-2024
-Netdevops 2024 for QYT
+# QYT-NetDevops-2025
+Netdevops 2025 for QYT
